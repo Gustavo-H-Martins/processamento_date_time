@@ -1,4 +1,4 @@
-# `<h1 align="center">`Comparativo Pendulum vs Time vs Datetime`</h1>`
+# <h1 align="center">Comparativo Pendulum vs Time vs Datetime</h1>
 
 [![Gustavo-H-Martins](https://github-readme-stats.vercel.app/api?username=Gustavo-H-Martins&show_icons=true&theme=radical)](https://github.com/Gustavo-H-Martins)
 
